@@ -1,3 +1,8 @@
+
+A newsletter-signup website deployed on heroku using NODEjs .As of now the deatils of user get stored on the MAilchimp database .
+
+
+
 # verror: rich JavaScript errors
 
 This module provides several classes in support of Joyent's [Best Practices for
