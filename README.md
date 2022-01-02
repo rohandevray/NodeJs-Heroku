@@ -1,5 +1,6 @@
 
 A newsletter-signup website deployed on heroku using NODEjs .As of now the deatils of user get stored on the MAilchimp database .
+check: https://mailchimp.com/
 
 
 
